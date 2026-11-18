@@ -93,6 +93,10 @@ python app.py
 
 The notebooks were written on Windows. A few cells load the Helvetica font from `C:\Users\...` or read images from `F:\...`. Change those paths to your own, or delete the font cells to use matplotlib's default font.
 
+## License
+
+Released under the [MIT License](LICENSE).
+
 ## Contact
 
 Syeda Tamzida Akter (corresponding code author) · Md. Basir Zisan (corresponding author), CUET
